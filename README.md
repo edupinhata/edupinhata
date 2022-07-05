@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there
 
 My name is Eduardo Pinhata, I am a bachelor and master computer scientist graduated from Federal University of ABC, Brazil. 
-I already worked with multiple languages and technologies aiming for a full stack developer.  
+I already worked with multiple languages and technologies aiming for a [DevOps](https://roadmap.sh/roadmaps/devops.png) and [Full stack developer](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large).  
 
 [![Linkedin: Eduardo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardopinhata/)](https://www.linkedin.com/in/eduardopinhata/)
 
