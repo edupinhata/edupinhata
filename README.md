@@ -31,6 +31,8 @@ My name is Eduardo Pinhata.
 
 [![Linkedin: Eduardo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardopinhata/)](https://www.linkedin.com/in/eduardopinhata/)
 
+[2022 Resume](https://github.com/edupinhata/Resume/blob/main/Eduardo_Resume_Fancy_En.pdf)
+
 
 
 ## Technologies I worked with
