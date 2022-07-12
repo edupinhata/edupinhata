@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 
 ### Hi there
 
-My name is Eduardo Pinhata, I am a bachelor and master computer scientist graduated from Federal University of ABC, Brazil. 
-I already worked with multiple languages and technologies aiming to become a better [Full stack developer](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large) everyday.  
+My name is Eduardo Pinhata. 
+
+- Bachelor in computer science (Federal University of ABC, Brazil)
+- Master in Computer Science (Federal University of ABC, Brazil)
+- goal is to become a better [Full stack developer](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large).  
+🌱 I’m currently learning: Docker, NodeJs, NestJs. 
 
 [![Linkedin: Eduardo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardopinhata/)](https://www.linkedin.com/in/eduardopinhata/)
 
-## Technologies
-
-These are some tecnologies that I know.
+## Technologies I worked with
 
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
