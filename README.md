@@ -24,8 +24,7 @@ My name is Eduardo Pinhata.
 - Master in Computer Science (Federal University of ABC, Brazil)
 - goal is to become a better [Full stack developer](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large).
 
-🌱 I’m currently learning: Docker, NodeJs, NestJs. 
-
+🌱 I’m currently learning: Docker, NodeJs, Spring Boot and Vue
 
 ## Resume
 
